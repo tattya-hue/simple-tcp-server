@@ -1,7 +1,7 @@
 # Simple TCP server
 
 ## Overview
-This TCP server displays the connected clients in order and returns the messages sent by the clients.
+This TCP server returns the messages sent by the clients. This can be cpmpiled to wasi preview2.
 
 ## Build
 You can build targeting native :
